@@ -2,6 +2,8 @@
 ## Aggregate and Analyze Stock Market Data
 ### *2014 - 2015 - 2016*
 
+![](ReadMe_Images/stock-image2.jpg)
+
 **The goal of the project is to loop through all stocks in each worksheet in a workbook and output the following:**
 - Unique/Distinct Ticker Symbol
 - Yearly change from opening price at the beginning of the year to the closing price at the end of the year
